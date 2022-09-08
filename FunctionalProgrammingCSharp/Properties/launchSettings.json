@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FunctionalProgrammingCSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "-- Should I use top level statements in all my programs?"
+    }
+  }
+}

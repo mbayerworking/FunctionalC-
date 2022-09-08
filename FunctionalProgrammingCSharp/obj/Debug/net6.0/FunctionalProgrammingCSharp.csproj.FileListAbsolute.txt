@@ -1,0 +1,15 @@
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\FunctionalProgrammingCSharp.exe
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\FunctionalProgrammingCSharp.deps.json
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\FunctionalProgrammingCSharp.runtimeconfig.json
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\FunctionalProgrammingCSharp.dll
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\ref\FunctionalProgrammingCSharp.dll
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\bin\Debug\net6.0\FunctionalProgrammingCSharp.pdb
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.csproj.AssemblyReference.cache
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.AssemblyInfoInputs.cache
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.AssemblyInfo.cs
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.dll
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\ref\FunctionalProgrammingCSharp.dll
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.pdb
+C:\Users\12537\source\repos\FunctionalProgrammingCSharp\FunctionalProgrammingCSharp\obj\Debug\net6.0\FunctionalProgrammingCSharp.genruntimeconfig.cache
